@@ -1,0 +1,3 @@
+# Exact version this project was built and tested against (see BUILD_APK.md, docs/VERIFICATION.md).
+# The extras pull in the CLI (flet run / flet build), the desktop client and the web server.
+flet[all]==1.0.5
